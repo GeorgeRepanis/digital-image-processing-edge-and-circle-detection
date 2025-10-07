@@ -1,0 +1,2 @@
+# digital-image-processing-edge-and-circle-detection
+Processes a given image with a focus on edge and circle detection. Implements convolution, Sobel (with multiple thresholds), Laplacian of Gaussian (LoG), and the Hough Transform for circles on basketball_large.png. Results are evaluated with plots and images. Includes speed/noise optimizations (e.g., filtering strongest circles, fewer iterations.
